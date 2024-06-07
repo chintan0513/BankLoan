@@ -32,7 +32,7 @@ The project directory contains the following files and folders:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AnkurMangroliya/Loan-Approval-Prediction.git
+git clone https://github.com/chintan0513/BankLoan.git
 cd Loan-Approval-Prediction
 ```
 
@@ -82,7 +82,7 @@ Users can input the following parameters into the web form for loan approval pre
 
 ## Credits
 
-This project was developed by Ankur as part of Machine Learning project
+This project was developed by Chintan as part of Machine Learning project
 
 ## License
 
